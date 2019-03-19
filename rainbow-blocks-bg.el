@@ -434,6 +434,6 @@ Used by jit-lock for dynamic highlighting."
 (define-globalized-minor-mode global-rainbow-blocks-bg-mode
   rainbow-blocks-bg-mode rainbow-blocks-bg-mode-enable)
 
-(provide 'rainbow-blocks-bg-bg)
+(provide 'rainbow-blocks-bg)
 
 ;;; rainbow-blocks-bg.el ends here
